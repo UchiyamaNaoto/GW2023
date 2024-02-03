@@ -1,22 +1,22 @@
-�Z�A�v���̊T�v
+〇アプリの概要
 
-�@�g���[�j���O�Ǘ��V�X�e��
+　トレーニング管理システム
 
-�Z�����@�\�i���Łj
+〇実装機能（β版）
 
-�@�b���������ʂƓ�Փx��I�сA�^�C�}�[���g���ăg���[�j���O�̎��Ԃ��Ǘ�����B
-�@CSV�ɓ��t�A���ʁA��Փx�A����J�����[�̃f�[�^��ۑ�����B(���t�Ə���J�����[�͂܂��ł��Ă��Ȃ�)
-�@TopPage�ō��܂ōs�����g���[�j���O�̃f�[�^��DataGrid�Ŋm�F���邱�Ƃ��ł���B
+　鍛えたい部位と難易度を選び、タイマーを使ってトレーニングの時間を管理する。
+　CSVに日付、部位、難易度、消費カロリーのデータを保存する。(日付と消費カロリーはまだできていない)
+　TopPageで今まで行ったトレーニングのデータをDataGridで確認することができる。
 
-���c���
+○残作業
 
-�@DELETE�{�^����DataGrid�̍s���폜�B
-�@�g���[�j���O���s�������t���o���B
-�@���C�A�E�g�������ƍH�v����B
+　DELETEボタンでDataGridの行を削除。
+　トレーニングを行った日付を出す。
+　レイアウトをもっと工夫する。
 
-�����̑�
+○その他
 
 
 
-���Q�l�ɂ��Ă���T�C�g���iUnity�j
+▼参考にしているサイト等（Unity）
 
